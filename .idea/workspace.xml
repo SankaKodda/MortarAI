@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1af7ab3c-a74b-4654-9ca0-a6d8debfe04c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/RunAllLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithEmptyCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithEmptyEmailWithInvalidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithEmptyEmailWithValidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithEmptyPasswordWithInvalidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithEmptyPasswordWithValidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithInvalidCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithInvalidEmailValidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithInvalidPasswordValidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithValidCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithWrongEmailFormatInvalidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithWrongEmailFormatValidPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithWrongFormatEmailPasword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithWrongPasswordFormatInvalidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/tc_AbbatoirLoginWithWrongPasswordFormatValidEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/MyCustomerSteps/MyCustomerSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/MyCustomerSteps/MyCustomer_QuickFilterCheckSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/MyCustomerSteps/MyCustomer_SearchBarSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/Tc_SelectAllCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/Tc_SelectMyTopSpenders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCustomer/Tc_VerifyMyCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OpenBrowser/OpenWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Report/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SelectBusinessOwner/SelectBusinessOwnerSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SelectBusinessOwner/Tc_SelectAValidBusinessOwner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LiFjWNWNLIFUzV1kVf9gfL2hFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/Firehouse/MortarPortal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Firehouse\MortarPortal" />
+      <recent name="D:\Firehouse\MortarPortal\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tc_SelectAValidBusinessOwner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectBusinessOwner.Tc_SelectAValidBusinessOwner" />
+      <module name="MortarPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SelectBusinessOwner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tc_SelectAValidBusinessOwner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1af7ab3c-a74b-4654-9ca0-a6d8debfe04c" name="Changes" comment="" />
+      <created>1676346134050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676346134050</updated>
+      <workItem from="1676346136167" duration="17781000" />
+      <workItem from="1677057021257" duration="758000" />
+      <workItem from="1677120360602" duration="1829000" />
+      <workItem from="1677129419242" duration="307000" />
+      <workItem from="1677232938094" duration="24000" />
+      <workItem from="1682404111164" duration="1048000" />
+      <workItem from="1682569209693" duration="1879000" />
+      <workItem from="1682573973707" duration="645000" />
+      <workItem from="1683713588863" duration="2255000" />
+      <workItem from="1683716024064" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
